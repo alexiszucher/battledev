@@ -1,0 +1,31 @@
+﻿  main.cpp
+d:\projetgit\battledev\exo1\exo1\main.cpp(8): error C2601: 'split' : définitions de fonctions locales non conformes
+  d:\projetgit\battledev\exo1\exo1\main.cpp(7): note: cette ligne comporte un '{' qui n'est pas équilibré
+d:\projetgit\battledev\exo1\exo1\main.cpp(49): error C2440: '=' : impossible de convertir de '_Ty' en 'int'
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\projetgit\battledev\exo1\exo1\main.cpp(49): note: Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C3873: '0x201c' : ce caractère n'est pas autorisé comme premier caractère d'identifiant
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2065: '“' : identificateur non déclaré
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'va'
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2065: 'va' : identificateur non déclaré
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'devoir'
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2065: 'devoir' : identificateur non déclaré
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'dormir'
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2065: 'dormir' : identificateur non déclaré
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'dehors'
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2065: 'dehors' : identificateur non déclaré
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'ce'
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2065: 'ce' : identificateur non déclaré
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2146: erreur de syntaxe : absence de ';' avant l'identificateur 'soir'
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2065: 'soir' : identificateur non déclaré
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2143: erreur de syntaxe : absence de ';' avant '!'
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C3873: '0x201d' : ce caractère n'est pas autorisé comme premier caractère d'identifiant
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2065: '”' : identificateur non déclaré
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2563: incompatibilité dans la liste de paramètres formels
+d:\projetgit\battledev\exo1\exo1\main.cpp(59): error C2568: '<<' : impossible de résoudre la surcharge de fonction
+  d:\projetgit\battledev\exo1\exo1\main.cpp(59): note: est peut-être 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+d:\projetgit\battledev\exo1\exo1\main.cpp(12): warning C4018: '<' : incompatibilité signed/unsigned
+d:\projetgit\battledev\exo1\exo1\main.cpp(19): warning C4018: '<' : incompatibilité signed/unsigned
