@@ -1,25 +1,21 @@
-Le marathon est une épreuve sportive où les participants doivent parcourir 42 kilomètres. Lors d'une soirée pizza avec vos amis, vous discutez du prochain marathon qui se tiendra dans votre ville. Vos amis sont convaincus que vous n'êtes pas capable de terminer la course et vous, vous leur jurez que vous êtes sûr(e) de finir dans les 100 premiers.
-Les paris sont lancés :
-- si vous terminez dans le top 100, vous gagnez 1 000 euros ;
-- si vous terminez le marathon, vous gagnez 100 euros ;
-- si vous ne terminez pas le marathon, vous aurez juste perdu votre crédibilité.
+En séminaire avec votre entreprise dans un pays exotique, vous avez la possibilité de participer à plusieurs activités. L’excursion sur une île a l’air sympa mais vous préférez participer à la randonnée sur 2 jours. Les paysages sur les chemins sont magnifiques et vous n’avez encore jamais dormi à la belle étoile.
 
+Vous êtes partis depuis plus de 10h et malheureusement tout ne se passe pas comme prévu. Il pleut beaucoup, les paysages ne sont pas au rendez-vous et vous êtes épuisés. Vous pensiez que sortir les tentes allait vous soulager mais vous vous rendez compte qu’il en manque une.
 
-Vous passez la ligne de départ à une certaine place, et tous les kilomètres, vous faites le point sur le nombre de personnes qui vous ont dépassées et celles que vous avez dépassées pour connaitre votre classement.
+Le soleil est presque couché donc il faut vite trouver une solution. C'est décidé, une personne doit se sacrifier et ça va se jouer à la courte paille. Vous ramassez autant de bout de bois qu’il y a de personnes et chacun votre tour vous allez en tirer un. Celui qui tire le plus petit bout de bois dormira sans tente.
 
-Dans ce challenge, on considère que le marathon fait exactement 42km et que si vous terminez après la 10 000ème place, cela veut dire que vous avez abandonné.
+Vous devez déterminer le prénom de la personne qui va dormir sans tente.
 
-Objectif
+On vous garantit qu’il n’y a pas d’égalité possible.
 
-Vous devez déterminer le montant gagné lors de votre pari.
 
 Format des données
 
 Entrée
 
-Ligne 1 : un entier compris entre 1 et 20 000 correspondant à votre classement lorsque vous passez la ligne de départ.
-Lignes 2 à 43 : deux entiers séparés par un espace représentant respectivement les personnes vous ayant dépassé(e) et celles que vous avez dépassées pour un kilomètre donné.
+Ligne 1 : un entier N compris entre 10 et 100 correspondant au nombre de personnes participant à la randonnée.
+Lignes 2 à N+1 : une chaîne de caractères comprenant entre 5 et 10 caractères en minuscules et un entier compris entre 1 et 1000 séparés par un espace représentant respectivement le prénom d'un participant et la longueur de son bout de bois en centimètres.
 
 Sortie
 
-Un entier correspondant au montant gagné lors de votre pari. Si vous ne gagnez rien, renvoyez la chaîne de caractères KO.
+Le prénom de la personne qui dormira sans tente.
