@@ -1,2 +1,2 @@
 # battledev
-Un petit git pour train à la battledev 2020
+Un petit git pour du training à la battledev 2020
